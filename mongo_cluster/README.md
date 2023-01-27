@@ -16,4 +16,4 @@ To enter to the mongo express from browser using minikube:
 `minikube service mongo-express-service`
 
 ## Request path from browser to mongo db:
-[[https://github.com/yaucho/kubernates_clusters/blob/master/mongo_cluster/doc/request_path.png|alt=octocat]]
+![Request image](doc/request_path.png)
